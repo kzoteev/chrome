@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:stable-slim
 
 LABEL maintainer="Tomohisa Kusano <siomiz@gmail.com>"
 
